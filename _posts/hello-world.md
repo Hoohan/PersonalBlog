@@ -1,39 +1,16 @@
 ---
-title: Hexo Default Guide
-date: 2019-05-01 17:01:34
+title: Hello world! 
+date: 2020-01-30 17:01:34
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+大家好。  
 
-### Create a new post
+将近一年过去，终于有机会可以重新整理一下自己的博客了。  
 
-``` bash
-$ hexo new "My New Post"
-```
+本博客的原始markdown文件已开源，皆放在[个人github仓库](https://github.com/Hoohan/PersonalBlog)中。  
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+如果您在阅读博客的过程中有任何问题，欢迎发邮件到我的邮箱：<work@hoohan.cn>.  
 
-### Run server
+道阻且长，我继续努力。  
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+感谢你的阅读。  
