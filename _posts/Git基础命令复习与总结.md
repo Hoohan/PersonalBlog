@@ -5,7 +5,7 @@ tags: git
 ---
 ## 写本文的目的
 长时间不复习就会遗忘，好记性不如烂笔头。
-在git学习中，需要特别感谢[廖雪峰的教程](www.liaoxuefeng.com)。
+在git学习中，需要特别感谢[廖雪峰的教程](https:\\www.liaoxuefeng.com)。
 ### 本地Git用户名与邮箱
 **修改**  
 `git config --global user.name "Name"`   
