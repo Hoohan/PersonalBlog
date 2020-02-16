@@ -1,7 +1,7 @@
 ---
 title: Git基础命令复习与总结
 date: 2020-01-31 10:08:26
-tags: git
+tags: Review&Summary
 ---
 ## 写本文的目的
 长时间不复习就会遗忘，好记性不如烂笔头。

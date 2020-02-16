@@ -1,7 +1,7 @@
 ---
 title: Illustrator学习记录（更新中）
 date: 2020-02-07 21:13:46
-tags: learning
+tags: Review&Summary
 ---
 # Day 1
 **选择工具**   
